@@ -1,0 +1,10 @@
+.hello:hover{
+    font-style: italic;
+    color: lawngreen;
+}
+.hello:visited{
+    color: red;
+}
+li:nth-child(3) a{
+    color: lightsalmon;
+}

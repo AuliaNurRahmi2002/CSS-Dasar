@@ -1,0 +1,7 @@
+body{
+    /* background-color: aquamarine;
+    background-image: url(gambar/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-position: top right; */
+    background: greenyellow url(gambar/bg-2.jpg) top center no-repeat;
+}

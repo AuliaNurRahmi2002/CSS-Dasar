@@ -1,0 +1,12 @@
+h1{
+    color: #678f3f;
+    text-transform: lowercase;
+}
+p{
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    text-indent: 200px;
+    text-align: center;
+    color: rgb(202, 92, 14);
+}
